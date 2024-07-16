@@ -1,18 +1,20 @@
 /*************************************************** 
-    HEADER SECTION
-****************************************************/
-
-
-
-/*************************************************** 
     MAIN SECTION
 ****************************************************/
+.dice-box {
+    height: 70px;
+    width: 50px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 30px;
+    border-radius: 5px;
+    font-weight: bold;
+}
 
 
-
-/*************************************************** 
-    FOOTER SECTION
-****************************************************/
 
 
 
